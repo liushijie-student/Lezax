@@ -1,0 +1,3 @@
+[submodule "Lezax/vendor/spdlog"]
+	path = Lezax/vendor/spdlog
+	url = https://github.com/gabime/spdlog
